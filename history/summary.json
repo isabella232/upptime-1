@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2111,
-    "timeDay": 2111,
-    "timeWeek": 2111,
-    "timeMonth": 2111,
-    "timeYear": 2111,
+    "time": 1584,
+    "timeDay": 1584,
+    "timeWeek": 1584,
+    "timeMonth": 1584,
+    "timeYear": 1584,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/exampleservice.domainconnect.org",
     "slug": "domainconnect-org-example-service",
     "status": "down",
-    "uptime": "5.45%",
-    "uptimeDay": "5.45%",
-    "uptimeWeek": "5.45%",
-    "uptimeMonth": "5.45%",
-    "uptimeYear": "5.45%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-01": 0
+      "2022-03-01": 22
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 279,
-    "timeWeek": 279,
-    "timeMonth": 279,
-    "timeYear": 279,
+    "time": 234,
+    "timeDay": 234,
+    "timeWeek": 234,
+    "timeMonth": 234,
+    "timeYear": 234,
     "dailyMinutesDown": {}
   }
 ]
