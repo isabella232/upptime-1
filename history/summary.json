@@ -4,18 +4,20 @@
     "url": "https://domainconnect.org",
     "icon": "https://favicons.githubusercontent.com/domainconnect.org",
     "slug": "domainconnect-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1055,
-    "timeDay": 1002,
-    "timeWeek": 868,
-    "timeMonth": 1055,
-    "timeYear": 1055,
-    "dailyMinutesDown": {}
+    "time": 961,
+    "timeDay": 512,
+    "timeWeek": 762,
+    "timeMonth": 961,
+    "timeYear": 961,
+    "dailyMinutesDown": {
+      "2022-03-09": 0
+    }
   },
   {
     "name": "Domainconnect.org example service",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-09": 86,
+      "2022-03-09": 702,
       "2022-03-08": 1440,
       "2022-03-07": 1440,
       "2022-03-06": 1440,
