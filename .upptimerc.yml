@@ -9,6 +9,8 @@ sites:
     url: https://exampleservice.domainconnect.org/
   - name: Domainconnect.org DynDNS
     url: https://dynamicdns.domainconnect.org/ddnscode?code=test&state=null
+  - name: Domainconnect.org Status website
+    url: https://status.domainconnect.org
 
 assignees:
   - rphilip
@@ -17,8 +19,8 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /upptime
+  cname: status.domainconnect.org
+  #baseUrl: /upptime
   logoUrl: https://dynamicdns.domainconnect.org/static/dclogo.png
   name: Domainconnect.org Upptime
   introTitle: "Status of **Domainconnect.org** service websites"
